@@ -1,5 +1,3 @@
-//arquivo elimina ../../.. do início dos imports
-
 {
   "compilerOptions": {
     "baseUrl": "src"
